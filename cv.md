@@ -76,12 +76,12 @@ Address: Kharkiv (Ukraine)
 
 ## Language skills
 Mother tongue  - Ukrainian.  
-|Language | Listening | Reading|Writing|Spoken interaction|
-|---------|-----------|--------|-------|-----------------
-|Polish|C1|C1|C1|C1|
-|Russian|C2|C2|C2|C2|
-|Hungarian|B2|B2|B1|B1|
-|English|B2|B2|B2|B2|
+
+Languages: 
+Polish: listening -C1, reading - C1, writing - C1. spoken interaction - C1.
+Russian: listening -C2, reading - C2, writing - C2. spoken interaction - C2.
+Hungarian: listening -B2, reading - B2, writing - B1. spoken interaction - B1.
+English: listening -B2, reading - B2, writing - B2. spoken interaction - B2.
 
 ## Digital skills
 - HTML6
