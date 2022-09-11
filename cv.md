@@ -78,10 +78,10 @@ Address: Kharkiv (Ukraine)
 Mother tongue  - Ukrainian.  
 
 Languages: 
-Polish: listening -C1, reading - C1, writing - C1. spoken interaction - C1.
-Russian: listening -C2, reading - C2, writing - C2. spoken interaction - C2.
-Hungarian: listening -B2, reading - B2, writing - B1. spoken interaction - B1.
-English: listening -B2, reading - B2, writing - B2. spoken interaction - B2.
+- Polish: listening -C1, reading - C1, writing - C1. spoken interaction - C1.
+- Russian: listening -C2, reading - C2, writing - C2. spoken interaction - C2.
+- Hungarian: listening -B2, reading - B2, writing - B1. spoken interaction - B1.
+- English: listening -B2, reading - B2, writing - B2. spoken interaction - B2.
 
 ## Digital skills
 - HTML6
